@@ -1,1 +1,1 @@
-~ $ cat diary.txt 
+~ $ cat diary.txt  
